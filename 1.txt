@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-This is modified version
-This is modified again
-=======
->>>>>>> parent of 55c2435... 1.txt modified
